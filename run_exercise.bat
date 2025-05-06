@@ -3,7 +3,7 @@ REM 设置Python虚拟环境路径
 set VENV_PATH=e:\BaiduSyncdisk\python_promgram\Life\.venv\Scripts\pythonw.exe
 
 REM 设置exercise.py的绝对路径
-set EXERCISE_PATH=e:\BaiduSyncdisk\python_promgram\Life\alarm\exercise.py
+set EXERCISE_PATH=e:\BaiduSyncdisk\python_promgram\Life\alarm\simple_test.py
 
 REM 检查虚拟环境是否存在
 if not exist "%VENV_PATH%" (
